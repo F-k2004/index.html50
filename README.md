@@ -15,7 +15,7 @@ canvas{display:block}
   font-size:13px;
   min-width:240px;
 }
-.ood{color:#9ff0ff}
+.good{color:#9ff0ff}
 .mid{color:#ffd29f}
 .bad{color:#ff9f9f}
 </style>
